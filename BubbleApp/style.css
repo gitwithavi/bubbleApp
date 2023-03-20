@@ -1,0 +1,34 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#myCanvas {
+    border: 5px solid black;
+    
+  }
+  
+  button {
+    display: flex;
+    box-shadow: 3px 4px #888888;
+    font-weight: bold;
+    font-size: medium;
+    font-size: larger;
+    height: 2rem;
+    width: 4rem;
+  justify-content: center;
+  align-items: center;
+  }
+  .btn{
+   
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+  }
